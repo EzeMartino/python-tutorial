@@ -1,8 +1,1 @@
 # Ezequiel Martino
-# Aprendiendo GitHub y Python
-# Este es mi primer repositorio de Github,
-# estoy aprendiendo a usarlo
-
-Procedo a escribir una linea larga para ver como queda
-#
-Si las escribo sin el "# " al principio, queda mucho mas chiquita la letra
