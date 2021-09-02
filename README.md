@@ -1,5 +1,5 @@
 # Ezequiel Martino
-# Aprendiendo Python
+# Aprendiendo GitHub y Python
 # Este es mi primer repositorio de Github,
 # estoy aprendiendo a usarlo
 
